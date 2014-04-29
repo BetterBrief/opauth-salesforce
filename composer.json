@@ -1,0 +1,23 @@
+{
+	"name": "betterbrief/opauth-salesforce",
+	"description": "Salesforce authentication strategy for Opauth",
+	"keywords": ["authentication","auth","salesforce"],
+	"homepage": "https://github.com/BetterBrief/opauth-salesforce",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Daniel Hensby",
+			"email": "github@hens.by",
+			"homepage": "http://hens.by"
+		}
+	],
+	"require": {
+		"php": ">=5.2.0",
+		"opauth/opauth": ">=0.4.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "."
+		}
+	}
+}
