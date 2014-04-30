@@ -6,7 +6,7 @@
  * @copyright    Copyright © 2014, Better Brief LLP
  * @license      BSD License
  */
-class GitHubStrategy extends OpauthStrategy {
+class SalesforceStrategy extends OpauthStrategy {
 
 	/**
 	 * Compulsory config keys, listed as unassociative arrays
